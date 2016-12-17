@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidTTS</string>
+    <string name="speech_prompt">texto</string>
+    <string name="speech_not_supported">Impossivel falar</string>
+</resources>
